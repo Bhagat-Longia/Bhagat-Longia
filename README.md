@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhagat-Longia
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Systems Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on a course project
 - 📫 How to reach me: bhagatlongia94@gmail.com
